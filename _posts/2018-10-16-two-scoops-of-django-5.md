@@ -1,10 +1,13 @@
+---
 layout: post
-    title: ""
-    description: "TIL:django"
-    date: 2018-
-    tags: [TIL]
-    comments: true
-    share: true목
+title: "two scoops of django 5장"
+description: "TIL:django"
+date: 2018-10-16
+tags: [TIL]
+comments: true
+share: true
+
+---
 
 ## Two scoops of django 5장 - settings와 requirements파일
 
