@@ -1,11 +1,12 @@
 ---
 layout: post
-    title: "two scoops of django 6장"
-    description: "TIL:django"
-    date: 2018-10-17
-    tags: [TIL]
-    comments: true
-    share: true목
+title: "two scoops of django 6장"
+description: "TIL:django"
+date: 2018-10-17
+tags: [TIL]
+comments: true
+share: true목
+    
 ---
 
 ## Two scoops of django 6장 - 장고에서 모델이용하기
