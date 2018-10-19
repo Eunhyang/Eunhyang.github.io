@@ -9,7 +9,7 @@ share: true목
     
 ---
 
-## Two scoops of django 7장 - 쿼리와 데이터베이스 레이어음
+## Two scoops of django 7장 - 쿼리와 데이터베이스 레이어
 
 - 예외처리
     - 단일 객체에서 `get` 대신에  `get_object_or_404()` 이용하기
