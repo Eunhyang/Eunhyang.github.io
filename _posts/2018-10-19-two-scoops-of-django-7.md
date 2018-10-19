@@ -1,11 +1,11 @@
 ---
 layout: post
-    title: "two scoops of django 7장"
-    description: "TIL:django"
-    date: 2018-10-19
-    tags: [TIL]
-    comments: true
-    share: true목
+title: "two scoops of django 7장"
+description: "TIL:django"
+date: 2018-10-19
+tags: [TIL]
+comments: true
+share: true목
     
 ---
 
