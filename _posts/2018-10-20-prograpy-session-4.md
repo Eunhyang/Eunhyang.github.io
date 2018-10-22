@@ -16,8 +16,6 @@ share: true목
 
 ## Q3. 파이썬 코딩 컨벤션 준수하기
 
-## 파이썬 코딩 컨벤션 준수하기
-
 - `pep8` 을 준수합시다.
 
   - 파이썬을 사용할 때 함께 지키기로 약속한 규칙
@@ -50,6 +48,6 @@ share: true목
 
   참고 자료
 
-  ------
+------
 
   <https://spoqa.github.io/2012/08/03/about-python-coding-convention.html>
