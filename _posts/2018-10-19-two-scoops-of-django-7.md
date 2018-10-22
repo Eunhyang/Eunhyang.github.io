@@ -5,7 +5,7 @@ description: "TIL:django"
 date: 2018-10-19
 tags: [TIL]
 comments: true
-share: true목
+share: true
     
 ---
 
