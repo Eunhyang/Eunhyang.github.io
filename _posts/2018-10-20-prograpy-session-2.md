@@ -115,9 +115,10 @@ share: true목
 
   - `user/templates/rgistration/register.html`
 
-    ```html
+    ```
         <h1>Registration</h1>
-        <form method="POST" class="post-form">{% csrf_token %}
+        <form method="POST" class="post-form">
+            {% csrf_token %}
             {{ form.as_p }}
             <button type="submit" class="save btn btn-default">Save</button>
         </form>
