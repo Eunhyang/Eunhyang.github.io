@@ -116,15 +116,11 @@ share: true목
   - `user/templates/rgistration/register.html`
 
     ```html
-      {% extends 'blog/base.html' %}
-      
-      {% block content %}
-          <h1>Registration</h1>
-          <form method="POST" class="post-form">{% csrf_token %}
-              {{ form.as_p }}
-              <button type="submit" class="save btn btn-default">Save</button>
-          </form>
-      {% endblock %}
+        <h1>Registration</h1>
+        <form method="POST" class="post-form">{% csrf_token %}
+            {{ form.as_p }}
+            <button type="submit" class="save btn btn-default">Save</button>
+        </form>
     ```
 
   * url / view/ template 패턴
