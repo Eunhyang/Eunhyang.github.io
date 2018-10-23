@@ -29,7 +29,7 @@ share: true목
     - import 문 정리: `ctrl + alt + o`
     - 자동 코드 정렬: 
       - 윈도우, 우분투: `ctrl +alt + i`
-      - 맥: `com + alt + i`
+      - 맥: `cmd + option + L`
     - 단축키 설정에서 변경할 수 있습니다.
 
   - 검사 패키지 설치
