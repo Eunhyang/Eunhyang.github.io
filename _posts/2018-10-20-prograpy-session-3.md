@@ -52,7 +52,7 @@ share: true목
 
   * Python Interpreter는 프로젝트에서 사용하는 가상환경 선택해주세요.
 
-    ![jup3](../images/post_images/2018-10-22-djagno-session/jup3.png)
+    ![jup3](/assets/images/post_images/2018-10-22-djagno-session/jup3.png)
 
   * 마지막으로 환경변수(Environment variables 부분)에 Django settings파일 경로를 설정해야합니다. 키는 `DJANGO_SETTINGS_MODULE` 값은 `프로젝트 네임.settings` 로 잡아 주시면 됩니다.
 
@@ -60,9 +60,9 @@ share: true목
 
   * 실행 버튼을 클릭하면 jupyter 서버가 실행되는걸 확인할 수 있어요
 
-    ![jup5](../images/post_images/2018-10-22-djagno-session/jup5.png)
+    ![jup5](/assets/images/post_images/2018-10-22-djagno-session/jup5.png)
 
-    ![jup6](../images/post_images/2018-10-22-djagno-session/jup6.png)
+    ![jup6](/assets/images/post_images/2018-10-22-djagno-session/jup6.png)
 
   * localhost:8888로 브라우저에 접속해서 저 token값을 입력하거나 pycharm실행창에 있는 저 url을 클릭하셔도 됩니다.
 
