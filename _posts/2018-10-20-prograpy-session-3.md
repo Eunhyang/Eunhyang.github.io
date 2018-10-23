@@ -45,8 +45,8 @@ share: true목
 
   * 맨 우측 상단에 세모버튼 클릭후 Edit Configurations!
 
-  ![jup1](../images/post_images/2018-10-22-djagno-session/jup1.png)
-  * 새로운 창이 뜨는데 왼쪽 상단의 `+` 버튼을 클릭해서 jupyter노트북을 추가합니다.![jup2](../images/post_images/2018-10-22-djagno-session/jup2.png)
+  ![jup1](/assets/images/post_images/2018-10-22-djagno-session/jup1.png)
+  * 새로운 창이 뜨는데 왼쪽 상단의 `+` 버튼을 클릭해서 jupyter노트북을 추가합니다.![jup2](/assets/images/post_images/2018-10-22-djagno-session/jup2.png)
 
   * Name 작성하고 환경변수를 설정합니다.
 
@@ -56,7 +56,7 @@ share: true목
 
   * 마지막으로 환경변수(Environment variables 부분)에 Django settings파일 경로를 설정해야합니다. 키는 `DJANGO_SETTINGS_MODULE` 값은 `프로젝트 네임.settings` 로 잡아 주시면 됩니다.
 
-    ![jup4](../images/post_images/2018-10-22-djagno-session/jup4.png)
+    ![jup4](/assets/images/post_images/2018-10-22-djagno-session/jup4.png)
 
   * 실행 버튼을 클릭하면 jupyter 서버가 실행되는걸 확인할 수 있어요
 

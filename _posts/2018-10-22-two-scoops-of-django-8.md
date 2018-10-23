@@ -11,7 +11,7 @@ share: true
 
 ## Two scoops of django 8장 - 함수 기반 뷰와 클래스 기반 뷰
 
-- 매번 뷰를 구현할 때마다 함수 기반 뷰로 하는 게 더 적당할지, 클래스 기반 뷰로 하는 게 더 적당할지 생각해보기![f1](../images/two_scoops_of_django/f1.png)
+- 매번 뷰를 구현할 때마다 함수 기반 뷰로 하는 게 더 적당할지, 클래스 기반 뷰로 하는 게 더 적당할지 생각해보기![f1](/assets/images/post_images/two_scoops_of_django/f1.png)
 
 * URLConf로부터 뷰 로직을 분리하기
 

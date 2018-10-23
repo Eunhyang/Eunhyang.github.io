@@ -22,7 +22,7 @@ share: true목
   - 협업할 때의 예의, 코드가 가독성이 좋아지고 깔끔해진다! 협업할 때 꼭 지켜줍시다!
   - pycharm에는 기본적으로 설정되어 있어요
 
-  ![pep1](../images/post_images/2018-10-22-djagno-session/pep1.png)
+  ![pep1](/assets/images/post_images/2018-10-22-djagno-session/pep1.png)
 
   - 자동 수정 단축키
 
