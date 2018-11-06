@@ -52,7 +52,7 @@ share: true
          return request
          ```
 
-         => 이렇게 반환하는 경우 템플릿에서 `{% request.can_sprinkle %}` 이렇게 더 간단히 사용할 수 있음
+         => 이렇게 반환하는 경우 템플릿에서{% raw %} `{% request.can_sprinkle %}` {% endraw %} 이렇게 더 간단히 사용할 수 있음
 
       ```python
       # sprinkles/views.py
