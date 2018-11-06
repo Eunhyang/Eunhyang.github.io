@@ -52,7 +52,7 @@ share: true
          return request
          ```
 
-         => 이렇게 반환하는 경우 템플릿에서{% raw %} `{% request.can_sprinkle %}` {% endraw %} 이렇게 더 간단히 사용할 수 있음
+      => 이렇게 반환하는 경우 템플릿에서 {% raw %}`{% request.can_sprinkle %}`{% endraw %} 이렇게 더 간단히 사용할 수 있음
 
       ```python
       # sprinkles/views.py
@@ -61,9 +61,9 @@ share: true
           request = check_sprinkles(rquest) # view에서 이렇게 사용
           return render(rquest, "sprinkles/sprinkle_list.html", {"sprinkles:Sprinkle.objecs.all()"})
       ```
-
+    
     - 클래스 기반 뷰로 통합하기도 쉽다! (클래스 기반 뷰에서도 함수에서  `request = check_sprinkles(rquest)` 식으로 활용
-
+    
     - but 함수에서 함수 이용하기를 반복하고 있음 => 자동으로 처리하려면? **<u>데코레이터</u>**!
 
 - 편리한 데코레이터
